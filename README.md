@@ -1,6 +1,6 @@
 # My Resume
 
-[resume.ilove3lions.com](http://resume.ilove3lions.com/)
+[resume.ilove3lions.com](resume.ilove3lions.com)
 
 ## Introduction
 
